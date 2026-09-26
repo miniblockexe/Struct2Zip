@@ -1,0 +1,6 @@
+@Struct2Zip_HostAddress = http://localhost:5152
+
+GET {{Struct2Zip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
